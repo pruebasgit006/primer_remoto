@@ -4,15 +4,7 @@ echo "probando los comandos Git";
 
 
 
-echo "hola mundo :)";
-
-
-
-
-
-
-
-
+echo "hola mundo cruel jajaja :)";
 
 
 
