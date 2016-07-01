@@ -9,5 +9,7 @@ echo "hola mundo cruel jajaja :)";
 
 
 echo "fin";
+funciona jajaja
+
 
 ?>
